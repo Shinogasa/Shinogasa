@@ -8,6 +8,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinogasa&theme=blue-green" />
 </a>
 
+<br>
 ## 職務経歴
 
 |期間|社名|業務概要|
